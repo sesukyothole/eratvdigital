@@ -228,6 +228,29 @@ http://202.169.224.202:8800/udp/239.9.1.20:1234
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",VTV
 http://202.169.224.202:8800/udp/239.9.1.39:1234
 
+
+########## #EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+
 ########## MULTI cH
 #EXTINF:0 group-title="GERMANY" tvg-logo="http://epg.one/img2/935.png",.black HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3PVEHDX52ZW4M5/20019/index.m3u8
