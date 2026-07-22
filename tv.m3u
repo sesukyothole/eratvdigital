@@ -117,115 +117,115 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-32777070300
 https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
 
 ########### INDONESIA CH
-#EXTINF:-1 tvg-logo="https://myportal.live:443/images/3912e4f9958e9b44c04b0c77d777ffb5.png" group-title="INDONESIA TV",AFN HD
+#EXTINF:-1 tvg-logo="https://myportal.live:443/images/3912e4f9958e9b44c04b0c77d777ffb5.png" group-title="INDONESIA",AFN HD
 http://202.169.224.202:8800/udp/239.9.1.5:1234
 
-#EXTINF:-1 tvg-logo="https://myportal.live:443/images/d3db8e03fdbfd9406e755c21ed65de76.png" group-title="INDONESIA TV",ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://myportal.live:443/images/d3db8e03fdbfd9406e755c21ed65de76.png" group-title="INDONESIA",ANIMAL PLANET HD
 http://202.169.224.202:8800/udp/239.9.1.7:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BAA%2FXquSyCAJhsksBZeDvUxoi15q4US9h%2FqFG7NZD6uzmcoaZka4%2FWXcYtTf9l8YZeqmmwcCXrXuisyDAC6sG3MYTzAPwQ9Gs%3D" group-title="INDONESIA TV",BBC EARTH
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BAA%2FXquSyCAJhsksBZeDvUxoi15q4US9h%2FqFG7NZD6uzmcoaZka4%2FWXcYtTf9l8YZeqmmwcCXrXuisyDAC6sG3MYTzAPwQ9Gs%3D" group-title="INDONESIA",BBC EARTH
 http://202.169.224.202:8800/udp/239.9.1.30:1234
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",BBC lifestyle
 http://202.169.224.202:8800/udp/239.9.1.31:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18ihds%2BczkMp7rSmwC0%2B69iqYL6TdHk7qMUvV1MFUBblrt93ZLd2xfLM0iRv0QjSJgggebcFaT98HFo8VvBXK8MHcrYLroMGzg%3D" group-title="INDONESIA TV",BBC WORLD NEWS
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18ihds%2BczkMp7rSmwC0%2B69iqYL6TdHk7qMUvV1MFUBblrt93ZLd2xfLM0iRv0QjSJgggebcFaT98HFo8VvBXK8MHcrYLroMGzg%3D" group-title="INDONESIA",BBC WORLD NEWS
 http://202.169.224.202:8800/udp/239.9.1.24:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19XsXN8G6GygbPmrpZIIPlgueoxdjGrcQvjFSdaAw5Ch4MRA5FBJcT%2FsvY2LSKsEAURCqM5reoa29Moo98o6Hi0%2B8JTL1psrXY%3D" group-title="INDONESIA TV",CCM
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19XsXN8G6GygbPmrpZIIPlgueoxdjGrcQvjFSdaAw5Ch4MRA5FBJcT%2FsvY2LSKsEAURCqM5reoa29Moo98o6Hi0%2B8JTL1psrXY%3D" group-title="INDONESIA",CCM
 http://202.169.224.202:8800/udp/239.9.1.22:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18ntac5XS745OxCqQU3668eA6WpA%2FwT7ftfhPyWGSPsXy9pxZn9m1ePbhP0DGbj6bkS5x%2B3oX03khW3OPrJWN%2B6ia2iV3KJpas%3D" group-title="INDONESIA TV",CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18ntac5XS745OxCqQU3668eA6WpA%2FwT7ftfhPyWGSPsXy9pxZn9m1ePbhP0DGbj6bkS5x%2B3oX03khW3OPrJWN%2B6ia2iV3KJpas%3D" group-title="INDONESIA",CELESTIAL MOVIES
 http://202.169.224.202:8800/udp/239.9.1.23:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fc97DbGxeisgM5kFk7A6h8B4oynOns9NMly3q7eXj79v33lJaPFyIbB6IfL1GijSsO8Xf%2BxJxBYJqkdz%2FFHOAmHv4RgFtg9h8%3D" group-title="INDONESIA TV",CTV 1
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fc97DbGxeisgM5kFk7A6h8B4oynOns9NMly3q7eXj79v33lJaPFyIbB6IfL1GijSsO8Xf%2BxJxBYJqkdz%2FFHOAmHv4RgFtg9h8%3D" group-title="INDONESIA",CTV 1
 http://202.169.224.202:8800/udp/239.9.1.9:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Btodn41hJlqAC44OSzFDr17iCXT7OxuwgjivWAmu0V2SEdNid8mwLg35mB0xhiB%2BRy615VYXAPyt9yC%2FYsuSffBhby3y0fimc%3D" group-title="INDONESIA TV",CTV 2
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Btodn41hJlqAC44OSzFDr17iCXT7OxuwgjivWAmu0V2SEdNid8mwLg35mB0xhiB%2BRy615VYXAPyt9yC%2FYsuSffBhby3y0fimc%3D" group-title="INDONESIA",CTV 2
 http://202.169.224.202:8800/udp/239.9.1.10:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B2sBR9vuAJhMYEOx2srP%2FzcWoFRrS3GavEJf1tu8xrLwZDIe2STGrFZbrf4%2B1PUTIHtIpA7GynYbQIhZGOnLwHJjLykbw26is%3D" group-title="INDONESIA TV",CTV 3
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B2sBR9vuAJhMYEOx2srP%2FzcWoFRrS3GavEJf1tu8xrLwZDIe2STGrFZbrf4%2B1PUTIHtIpA7GynYbQIhZGOnLwHJjLykbw26is%3D" group-title="INDONESIA",CTV 3
 http://202.169.224.202:8800/udp/239.9.1.11:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Citra bioskop
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Citra bioskop
 http://202.169.224.202:8800/udp/239.9.1.15:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Citra Dangdut
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Citra Dangdut
 http://202.169.224.202:8800/udp/239.9.1.13:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Citra drama
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Citra drama
 http://202.169.224.202:8800/udp/239.9.1.12:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Citra entertainment
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Citra entertainment
 http://202.169.224.202:8800/udp/239.9.1.27:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Citra musik
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Citra musik
 http://202.169.224.202:8800/udp/239.9.1.14:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Citra Muslim
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Citra Muslim
 http://202.169.224.202:8800/udp/239.9.1.14:1234
 
-#EXTINF:-1 tvg-logo="https://myportal.live:443/images/951bbba4b25117b871bceb16918caf74.png" group-title="INDONESIA TV",DISCOVERY ASIA HD
+#EXTINF:-1 tvg-logo="https://myportal.live:443/images/951bbba4b25117b871bceb16918caf74.png" group-title="INDONESIA",DISCOVERY ASIA HD
 http://202.169.224.202:8800/udp/239.9.1.6:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18rQb7X1b5IVc7jv4%2BRKCnUs04VTFR7ezjcu9WfovDPbcq31o%2BC0jK6ZzDhW0A6YKVdUrWkiVmmANygnd16siuT1QV0tJlxWe4%3D" group-title="INDONESIA TV",DREAM WORKS
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18rQb7X1b5IVc7jv4%2BRKCnUs04VTFR7ezjcu9WfovDPbcq31o%2BC0jK6ZzDhW0A6YKVdUrWkiVmmANygnd16siuT1QV0tJlxWe4%3D" group-title="INDONESIA",DREAM WORKS
 http://202.169.224.202:8800/udp/239.9.1.19:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Food network
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Food network
 http://202.169.224.202:8800/udp/239.9.1.5:1234
 
-#EXTINF:-1 tvg-logo="https://myportal.live:443/images/bb2953ced999edd5e057dc8957e2ac17.png" group-title="INDONESIA TV",HGTV HD
+#EXTINF:-1 tvg-logo="https://myportal.live:443/images/bb2953ced999edd5e057dc8957e2ac17.png" group-title="INDONESIA",HGTV HD
 http://202.169.224.202:8800/udp/239.9.1.3:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FC4HDiguEZxNq0%2BJ1jh22JTKwUh2vbspQGxc%2FMgCkWbGgGHU4jaDS6lJYqlf5PQQ6fA4J1QnhdNmJA86PqvR%2F15f9Ij8ZLVg8%3D" group-title="INDONESIA TV",HIP HIP HOREE!
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FC4HDiguEZxNq0%2BJ1jh22JTKwUh2vbspQGxc%2FMgCkWbGgGHU4jaDS6lJYqlf5PQQ6fA4J1QnhdNmJA86PqvR%2F15f9Ij8ZLVg8%3D" group-title="INDONESIA",HIP HIP HOREE!
 http://202.169.224.202:8800/udp/239.9.1.28:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19JyXleC4eAR8aYl0EIwXx3VHLkSfa97AI8fLj0n7%2FnrUuyHtJwcBrRXw853w7W8Dtkgcb3krAxQZsVZoJ8n%2BMXf8%2BQEa3uMYI%3D" group-title="INDONESIA TV",HOREE
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19JyXleC4eAR8aYl0EIwXx3VHLkSfa97AI8fLj0n7%2FnrUuyHtJwcBrRXw853w7W8Dtkgcb3krAxQZsVZoJ8n%2BMXf8%2BQEa3uMYI%3D" group-title="INDONESIA",HOREE
 http://202.169.224.202:8800/udp/239.9.1.26:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FqMZ9G0%2FxU3rl%2BCAqssHQSc9UnR2v05i4fzz%2B%2BkW5eLgE8iXTPGj7yEpEIc1qRCwvCJW%2BLfC%2BEtG2gF2od5kdSr9gAz1BCq%2Bk%3D" group-title="INDONESIA TV",IDX
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FqMZ9G0%2FxU3rl%2BCAqssHQSc9UnR2v05i4fzz%2B%2BkW5eLgE8iXTPGj7yEpEIc1qRCwvCJW%2BLfC%2BEtG2gF2od5kdSr9gAz1BCq%2Bk%3D" group-title="INDONESIA",IDX
 http://202.169.224.202:8800/udp/239.9.1.36:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Indosiar
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Indosiar
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BOa3xszn%2FsJgTu2EOo9IACPT3%2Bu%2FPq8b4U7uhDipp0XiIkVMkM8hfiE3QFZoJZ87kjVmJMMYKNmC%2BZMCNKQAyMAivfnYf6nHw%3D" group-title="INDONESIA TV",KIX
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BOa3xszn%2FsJgTu2EOo9IACPT3%2Bu%2FPq8b4U7uhDipp0XiIkVMkM8hfiE3QFZoJZ87kjVmJMMYKNmC%2BZMCNKQAyMAivfnYf6nHw%3D" group-title="INDONESIA",KIX
 http://202.169.224.202:8800/udp/239.9.1.21:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F3AZa8HQHy3%2Fp2IKuAWYFmCHW99oRep5HKUnhp7rtfzEd0XL6SQXNd3AIAueSNSjSSocHg26ropjQBxwuiTMLz2pXIbvbumwQ%3D" group-title="INDONESIA TV",MNCTV
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F3AZa8HQHy3%2Fp2IKuAWYFmCHW99oRep5HKUnhp7rtfzEd0XL6SQXNd3AIAueSNSjSSocHg26ropjQBxwuiTMLz2pXIbvbumwQ%3D" group-title="INDONESIA",MNCTV
 http://202.169.224.202:8800/udp/239.9.1.34:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Moji
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Moji
 http://202.169.224.202:8800/udp/239.9.1.32:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",NEX
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",NEX
 http://202.169.224.202:8800/udp/239.9.1.32:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",NHK world
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",NHK world
 http://202.169.224.202:8800/udp/239.9.1.2:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Nick.jr
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Nick.jr
 http://202.169.224.202:8800/udp/239.9.1.18:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Nickeledeon
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Nickeledeon
 http://202.169.224.202:8800/udp/239.9.1.17:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Rock action
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Rock action
 http://202.169.224.202:8800/udp/239.9.1.1:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Rock entertainment
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Rock entertainment
 http://202.169.224.202:8800/udp/239.9.1.8:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",Sctv
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Sctv
 http://202.169.224.202:8800/udp/239.9.1.29:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",TLC
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TLC
 http://202.169.224.202:8800/udp/239.9.1.4:1234
 
-#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Blt%2FGs9mkF2xVTaD17toSGkf0RLFbr3%2FkAMoBbnB92cv0zWDzZHt%2BVgriZkdIcjX0Rb0p%2BjzkoYAPCgVVOZMJeWgOG7m6nscU%3D" group-title="INDONESIA TV",TVN
+#EXTINF:-1 tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Blt%2FGs9mkF2xVTaD17toSGkf0RLFbr3%2FkAMoBbnB92cv0zWDzZHt%2BVgriZkdIcjX0Rb0p%2BjzkoYAPCgVVOZMJeWgOG7m6nscU%3D" group-title="INDONESIA",TVN
 http://202.169.224.202:8800/udp/239.9.1.20:1234
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA TV",VTV
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",VTV
 http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 
